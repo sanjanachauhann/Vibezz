@@ -1,0 +1,15 @@
+Set Up Appwrite File Storage:
+If you haven't already, sign up for an Appwrite account and create a project.
+In your Appwrite dashboard, navigate to the "Storage" tab and create a new storage bucket.
+Once the bucket is created, note down the bucket ID.
+Upload Build Artifacts to Appwrite:
+After building your Expo app, you'll receive the APK (for Android) or IPA (for iOS) file.
+Upload the APK or IPA file to your Appwrite storage bucket using the Appwrite SDK or API. You can use the createFile method to upload files programmatically.
+Make Build Artifacts Publicly Accessible:
+Configure the permissions of the uploaded file in Appwrite to allow public access. You can set the file's visibility to "Public" to ensure anyone can access it.
+Get Public URL for Build Artifacts:
+Once the file is uploaded and set to public, Appwrite will provide you with a public URL for accessing the file.
+This URL can be shared with your users to download the Expo app build.
+Distribute Public URL to Users:
+Share the public URL of the APK (for Android) or IPA (for iOS) file with your users through your website, email, or any other distribution channels.
+By using Appwrite for hosting your Expo app build artifacts, you can take advantage of its file storage feature while ensuring easy and secure distribution of your app to users. Make sure to review Appwrite's documentation for detailed instructions on working with file storage and managing permissions.
