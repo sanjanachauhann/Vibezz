@@ -32,11 +32,11 @@
 ![Vibezz Logo](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/662f889c00395e2c561a/view?project=661d3132619b9d997567&mode=admin)
 
 - **Home Page : Everything, everywhere all at once!**
-- *thats exactly how vibrant and exciting it feels when you get to see all the beautiful moments on Vibezz!*
+Thats exactly how vibrant and exciting it feels when you get to see all the beautiful moments on Vibezz!
 ![Vibezz Home Page](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/662f8d6900311b8edd84/view?project=661d3132619b9d997567&mode=admin)
 
 - **Latest Posts component : Check the latest and most trending videos here!**
-![Vibezz Home Page](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/662f889c00395e2c561a/view?project=661d3132619b9d997567&mode=admin)
+![Vibezz Latest Page](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/66310ddd001ab66f9730/view?project=661d3132619b9d997567&mode=admin)
 
 - **Video and Photo uploads : Share your best memories!**
 ![Vibezz Video and Image Uploading](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/662f889c00395e2c561a/view?project=661d3132619b9d997567&mode=admin)
