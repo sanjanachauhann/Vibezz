@@ -15,18 +15,6 @@
 - **Bookmark Posts**: Never lose track of your favorite content. Bookmark posts to revisit them later at your convenience.
 
 - **Authentication with Appwrite**: Vibezz ensures secure user authentication and data management through Appwrite. Sign up, sign in, and logout seamlessly with email sessions, all managed effortlessly by Appwrite's powerful features.
-
-### Technology Stack
-
-- **React with JSX Elements**: Utilizing the power and flexibility of React with JSX to create dynamic and interactive user interfaces.
-
-- **Appwrite for Authentication and Data Storage**: Leveraging Appwrite's capabilities to handle user authentication, session management, and post storage with ease.
-
-- **Tailwind CSS for UI Styling**: Crafting visually appealing UI elements and layouts using Tailwind CSS, ensuring a sleek and modern user experience.
-
-- **Expo Libraries for Media Capture**: Seamless integration with Expo libraries to capture images and videos directly within the app, enhancing user convenience.
-
-- **React Navigation for Routing**: Navigating through different screens and stacks effortlessly using React Navigation, ensuring smooth transitions and user flow.
 ### Snapshots 
 - **Sign Up page , Sign In Page and the Splash Screen respectively.**
 ![Vibezz Logo](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/662f889c00395e2c561a/view?project=661d3132619b9d997567&mode=admin)
@@ -39,10 +27,24 @@ Thats exactly how vibrant and exciting it feels when you get to see all the beau
 ![Vibezz Latest Page](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/66310ddd001ab66f9730/view?project=661d3132619b9d997567&mode=admin)
 
 - **Video and Photo uploads : Share your best memories!**
-![Vibezz Video and Image Uploading](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/662f889c00395e2c561a/view?project=661d3132619b9d997567&mode=admin)
+![Vibezz Video and Image Uploading](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/663118a10027c9a974e1/view?project=661d3132619b9d997567&mode=admin)
 
 - **Bookmarks and Profile Page : Save your favourite posts and curate your profile !**
-![Vibezz Profile and Bookmarks Page](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/662f889c00395e2c561a/view?project=661d3132619b9d997567&mode=admin)
+![Vibezz Profile and Bookmarks Page](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/66312586003b324fdbed/view?project=661d3132619b9d997567&mode=admin)
+
+
+### Technology Stack
+
+- **React with JSX Elements**: Utilizing the power and flexibility of React with JSX to create dynamic and interactive user interfaces.
+
+- **Appwrite for Authentication and Data Storage**: Leveraging Appwrite's capabilities to handle user authentication, session management, and post storage with ease.
+
+- **Tailwind CSS for UI Styling**: Crafting visually appealing UI elements and layouts using Tailwind CSS, ensuring a sleek and modern user experience.
+
+- **Expo Libraries for Media Capture**: Seamless integration with Expo libraries to capture images and videos directly within the app, enhancing user convenience.
+
+- **React Navigation for Routing**: Navigating through different screens and stacks effortlessly using React Navigation, ensuring smooth transitions and user flow.
+
 
 
 
