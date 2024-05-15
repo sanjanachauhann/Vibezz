@@ -50,7 +50,7 @@ Thats exactly how vibrant and exciting it feels when you get to see all the beau
 
 To run GeminiPro locally on your machine, follow these steps:
 
-1. Clone the repository from GitHub: `git clone https://github.com/sanjanachauhann/GeminiPro.git`
+1. Clone the repository from GitHub: `git clone https://github.com/sanjanachauhann/Vibezz.git`
 2. Navigate to the project directory: `cd Vibezz`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start` or `npx expo start`
