@@ -1,6 +1,6 @@
 **Welcome to our App - Vibezz**
 
-![Vibezz Logo](https://cloud.appwrite.io/v1/storage/buckets/66222dd0d4afb4dfc4ff/files/662f839f00321b034015/view?project=661d3132619b9d997567&mode=admin)
+![Vibezz Logo](https://cloud.appwrite.io/v1/storage/buckets/6644558800035e013030/files/66445bfd0039f5bcf089/view?project=65ed40250605b7ffb39b&mode=admin)
 
 **Vibezz** is a versatile social media platform built on React with JSX elements, designed for seamless media sharing experiences. Whether it's uploading videos, images, or staying updated with the latest feeds from other users, Vibezz provides a dynamic and engaging environment for all.
 
