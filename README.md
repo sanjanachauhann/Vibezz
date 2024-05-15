@@ -46,7 +46,15 @@ Thats exactly how vibrant and exciting it feels when you get to see all the beau
 - **React Navigation for Routing**: Navigating through different screens and stacks effortlessly using React Navigation, ensuring smooth transitions and user flow.
 
 
+### Installation
 
+To run GeminiPro locally on your machine, follow these steps:
+
+1. Clone the repository from GitHub: `git clone https://github.com/sanjanachauhann/GeminiPro.git`
+2. Navigate to the project directory: `cd Vibezz`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start` or `npx expo start`
+5. Follow the instructions in the console to launch the app on your device or emulator.
 
 ### Get Started
 
